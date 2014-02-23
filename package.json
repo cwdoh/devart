@@ -1,0 +1,27 @@
+{
+  "name": "devart-2014-support-kor",
+  "version": "0.1.0",
+  "description": "DevArt 2014 - unofficial supporter's page",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cwdoh/devart.git"
+  },
+  "keywords": [
+    "devart",
+    "suppoter",
+    "unofficial"
+  ],
+  "author": "Chang W. Doh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cwdoh/devart/issues"
+  },
+  "homepage": "https://github.com/cwdoh/devart",
+  "dependencies": {
+    "marked": "~0.3.1"
+  }
+}
