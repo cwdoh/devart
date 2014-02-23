@@ -73,7 +73,7 @@
 
 > ##### 참가 시 주의사항
 * 여러분은 <font color="red">개인 혹은 듀오, 즉 최대 2명까지로 이루어진 팀</font>으로 입장할 수 있습니다.
-* 참여자 전원의 이름을 제출 템플릿의 'Author Name' 필드에 기록하여 신뢰성을 확인할 수 있어야 합니다. 
+* 참여자 전원의 이름을 제출 템플릿의 'Author Name' 필드에 기록하여 신뢰성을 확인할 수 있어야 합니다.
 * 그러나, **하나의 팀은 하나의  [GitHub](http://www.github.com) 계정을 사용**하여야 합니다.
 * [GitHub](http://www.github.com) 계정을 통해 연락이 이루어지므로 <font color="red">유효한 이메일 주소</font>를 등록해두시기 바랍니다.
 * <font color="red">3월 28일 금요일 오후 6시에 있을 마감 시한 전에 여러분의 제안을 `완료(Complete)` 상태로 표시해야 합니다.</font> 제출 기한 전에 `완료`로 표시된 제안들만이 심사 자격이 있습니다.
@@ -139,19 +139,3 @@ LIMIT ONE (1) ENTRY PER PERSON/TEAM. Subsequent entries will be disqualified. Al
 
 ## 논의
 
-<!-- start of disqus -->
-        <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-            var disqus_shortname = 'devart2014unofficialkoreansupporterpage'; // required: replace example with your forum shortname
-    
-            /* * * DON'T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-<!-- end of disqus -->
