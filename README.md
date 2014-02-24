@@ -1,12 +1,8 @@
 # DevArt 한국 참여자 도움말
 
-이 도움말은 한국 참여자들에게 DevArt 참여에 대한 도움을 드리기 위해 만들어진 *비공식* 페이지입니다. 따라서 정확하고 자세한 정보는 [http://www.g.co/devart](http://www.g.co/devart)를 참조하시기 바랍니다.
+### 이 도움말은 한국 참여자들에게 DevArt 참여에 대한 도움을 드리기 위해 만들어진 *비공식* 페이지입니다. 따라서 정확하고 자세한 정보는 [http://www.g.co/devart](http://www.g.co/devart)를 참조하시기 바랍니다.
 
-* 부족한 점이나 수정 사항, 기타 궁금한 점의 공유는 [메일](mailto:changwook.doh@gmail.com)이나 아래의 댓글로 문의하여 주시기 바랍니다. :)
-
-## 전체 목차
-
-[TOC]
+* 이 페이지에 대한 부족한 점이나 수정 사항, 기타 궁금한 점의 공유는 [메일](mailto:changwook.doh@gmail.com)이나 아래의 댓글로 문의하여 주시기 바랍니다. 다른 참가자들을 위해 공유가능한 내용을 전달해주시면 많은 도움이 되리라 생각합니다:)
 
 ## 주요 주의사항 요약
 
@@ -98,16 +94,16 @@
         * 초기 목업 및 디자인들
         * 작업 중인 작품의 신규 버전 (기능적으로 추가된 내용에 대해 기술함)
         * 프로토타입들의 과정 (스크린샷과 동영상을 포함함)
-* You are required to refer to README.md on DevArt template for further information on how to update the project page sections
-* You are required to have your Project’s Proposal based on the DevArt forked repository with the most up to date project markup of your project as part of the template provided.
-* Links to binary files are prohibited in any project updates, the links will be removed from the project update.
-* All your updates will be made public. All Proposals must be open source.
-*Google may ask the winner to move technology services as part of the winning process
-* The gallery specifications are TBD, please consider consider a space approximately 3m squared
+>* 여러분의 프로젝트 페이지 섹션을 어떻게 업데이트하는지에 대한 보다 자세한 정보는 DevArt 템플릿 상의 README.md를 참조하시기 바랍니다.
+>* 템플릿의 일부로 제공되는 프로젝트의 마크업에 대한 최신 DevArt 프로젝트를 포크한 저장소에 기반하여 프로젝트를 제안하여야 합니다.
+>* 바이너리(실행) 파일의 링크는 모든 프로젝트의 업데이트에서 금지되며, 링크들은 프로젝트 업데이트에서 제거될 것입니다.
+>* 모든 업데이트는 공개로 진행되어야 하며 모든 제안작은 오픈소스여야 합니다.
+>* 구글은 선발 프로세스의 일부로써 기술 서비스들을 이동할 것인지를 물어볼 수도 있습니다.
+>* 갤러리 규격은 추후 결정사항이며 대략 3평방미터의 공간을 고려해주시기 바랍니다.
 
 #### 제출 관련
 
-LIMIT ONE (1) ENTRY PER PERSON/TEAM. Subsequent entries will be disqualified. All entries must be received by 18.00.00 (GMT) on March 28, 2014. Entries are void if they are in whole or part illegible, incomplete, damaged, altered, counterfeit, obtained through fraud, or late. All entries will be deemed made by the authorized account holder of the email address submitted at the time of entry, and the potential winner may be required to show proof of being the authorized account holder for that email address. The “authorized account holder“ is the natural person assigned to an email address by an Internet service provider, online service provider, or other organization responsible for assigning email address for the domain.
+* **각 팀 혹은 개인 참여자의 참가는 1개로 제한됩니다.** 이후의 모든 참가는 실격됩니다. 모든 참가는 2014년 3월 28일 오후 6시(GMT, 런던 기준)까지만 받아들여집니다. 전체적으로 혹은 일부가 불법이거나 미완성, 손상, 개조, 위조, 부정한 수단으로 획득되거나 늦은 참가는 무효처리됩니다. 모든 참가는 참가 시점에 제출된 이메일 계정의 보유자를 인증을 통해 판단됩니다. 그리고 내정된 수상자들은 이메일 주소의 인증된 계정 보유자에 대한 증명이 요구될 수도 있습니다. "인증된 계정 보유자"는 인터넷 서비스 제공자, 온라인 서비스 제공자 혹은 이메일 주소의 도메인에 대해 지정된 신뢰된 다른 단체에 의해 이메일 주소가 지정된 실제 사람입니다.
 
 ## 심사
 
@@ -117,12 +113,15 @@ LIMIT ONE (1) ENTRY PER PERSON/TEAM. Subsequent entries will be disqualified. Al
 
 ### 선발 프로세스
 
+#### 2014년 4월 5일 ~ 2014년 4월 15일
+
 |     일정    |  항목 |  설명 |
 |--------|--------|--------|
 | 4월 5일 | 준준결승자 선정 | 전세계에서 총 20팀의 준준결승자들에 대한 연락이 이루어질 것입니다. |
 | 4월 9일 | 준결승 진출 라운드  | 질의서를 토함하여 응답 및 심사를 통해 10개 팀의 준결승 진출자를 결정합니다. |
 | 4월 10일 ~ 15일 |  준결승 라운드 | 결정된 10개의 팀은 구글 행아웃을 통해 대면 질의/면담을 진행합니다. |
 | 4월 15일 무렵 | 최종 선발 | 최종 선발팀을 결정하고 이메일을 통해 연락이 가며 2일 내에 답변을 하지 않으면 자동 실격 처리됩니다. |
+
 
 ## 부록: 자주하는 질문들 ([영문 FAQ 바로가기](https://devart.withgoogle.com/#/faq))
 
@@ -132,9 +131,9 @@ LIMIT ONE (1) ENTRY PER PERSON/TEAM. Subsequent entries will be disqualified. Al
 
 | 항목 | 사용 가능 기술 | 링크 |
 |---|---|---|
-| 프로그래밍 언어 | Go<br>Dart | [Go]()<br>[Dart]() |
-| 플랫폼 | Chrome Apps<br>Android<br>Compute Engine<br>App Engine | [Chrome Apps]()<br>[Android]()<br>[Compute Engine]()<br>[App Engine]() |
-| 개발도구 | 구글 웹 툴킷(GWT) 혹은 Polymer 중의 아무거나 | [Google Web Toolkit]()<br>[Polymer]() |
+| 프로그래밍 언어 | Go<br>Dart | [Go](http://golang.org/)<br>[Dart](https://www.dartlang.org/) |
+| 플랫폼 | Chrome Apps<br>Android<br>Compute Engine<br>App Engine | [Chrome Apps](https://developer.chrome.com/apps/about_apps)<br>[Android](http://developer.android.com/index.html)<br>[Compute Engine](https://cloud.google.com/products/compute-engine/)<br>[App Engine](https://developers.google.com/appengine/) |
+| 개발도구 | 구글 웹 툴킷(GWT) 혹은 Polymer 중의 아무거나 | [Google Web Toolkit](http://www.gwtproject.org/)<br>[Polymer](http://www.polymer-project.org/) |
 | API들 | Google API 중 아무거나 | 리스트는 [여기](https://developers.google.com/apis-explorer/#p/)을 참조하세요 |
 
 ## 논의

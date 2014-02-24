@@ -3,9 +3,9 @@ var fs = require('fs'),
     marked = require('marked');
 
 var basePath = process.cwd(),
-    headerPath = path.join(basePath, 'header.html'),
+    headerPath = path.join(basePath, 'template/header.html'),
     markdownPath = path.join(basePath, 'README.md'),
-    footerPath = path.join(basePath, 'footer.html'),
+    footerPath = path.join(basePath, 'template/footer.html'),
     outputPath = path.join(basePath, 'index.html');
 
 // remove output file.
