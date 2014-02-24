@@ -128,9 +128,9 @@ LIMIT ONE (1) ENTRY PER PERSON/TEAM. Subsequent entries will be disqualified. Al
 
 | 항목 | 사용 가능 기술 | 링크 |
 |---|---|---|
-| 프로그래밍 언어 | Go<br>Dart | [Go]()<br>[Dart]() |
-| 플랫폼 | Chrome Apps<br>Android<br>Compute Engine<br>App Engine | [Chrome Apps]()<br>[Android]()<br>[Compute Engine]()<br>[App Engine]() |
-| 개발도구 | 구글 웹 툴킷(GWT) 혹은 Polymer 중의 아무거나 | [Google Web Toolkit]()<br>[Polymer]() |
+| 프로그래밍 언어 | Go<br>Dart | [Go](http://golang.org/)<br>[Dart](https://www.dartlang.org/) |
+| 플랫폼 | Chrome Apps<br>Android<br>Compute Engine<br>App Engine | [Chrome Apps](https://developer.chrome.com/apps/about_apps)<br>[Android](http://developer.android.com/index.html)<br>[Compute Engine](https://cloud.google.com/products/compute-engine/)<br>[App Engine](https://developers.google.com/appengine/) |
+| 개발도구 | 구글 웹 툴킷(GWT) 혹은 Polymer 중의 아무거나 | [Google Web Toolkit](http://www.gwtproject.org/)<br>[Polymer](http://www.polymer-project.org/) |
 | API들 | Google API 중 아무거나 | 리스트는 [여기](https://developers.google.com/apis-explorer/#p/)을 참조하세요 |
 
 ## 논의
