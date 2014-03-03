@@ -19,3 +19,14 @@ build
 
 node_modules
 
+
+## Sublime text project files
+*.sublime-*
+
+## System files 
+
+.DS_Store
+*.log
+*.swp
+
+
