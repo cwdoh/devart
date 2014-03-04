@@ -83,3 +83,34 @@ header{
 	max-width: 960px;
 	padding: 40px 20px;
 }
+
+nav{
+	width: 100%;
+	background-color: #242424;
+	color: #fff;
+}
+
+	#navMenu{
+		display: block;
+		max-width: 960px;
+		margin: 0 auto;
+		padding: 10px 0;
+		text-align: center;
+	}
+
+	#navMenu li{
+		text-align: center;
+		display: inline-block;
+		min-width: 140px;
+		max-width: 240px;
+		padding: 10px 0 0;
+		margin: 10px 20px;
+		border-bottom: 2px solid #dedede;
+		cursor: pointer;
+		cursor: hand;
+	}
+
+	#navMenu li:hover{
+		color: #0090ff;
+		border-color: #0090ff;
+	}
