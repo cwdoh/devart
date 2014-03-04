@@ -1,0 +1,85 @@
+/* Base Color #0090FF - */
+/* Reset HTML5 Elements */
+html, body, header, section, footer, aside, nav, body, ul, li, a{
+  margin: 0;
+  left: 0;
+  padding: 0;
+  border: 0;
+  display: block;
+  outline: none;
+}
+ 
+/* Reset list Elements */
+ul, dl, ol{
+  list-style: none;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+ 
+html, body{
+	font-family: 10px 'Nanum Gothic';
+	width: 100%;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	background-color: #ccc;
+	font: 1em 'Apple SD Gothic Neo', '맑은 고딕','Malgun Gothic', 'Nanum Gothic', '나눔고딕','Driod Sans Fallback', 'Driod Sans', Helvetica, 'Gulim';
+	letter-spacing: 0.05em;
+	word-spacing: 0.2em;
+	line-height: 1.5em;
+	color: #444;
+	text-rendering: auto;
+	word-break: keep-all;
+	word-wrap: break-word;
+	/*-webkit-text-shadow: 0 0 1px rgba(0,0,0,0.3);*/
+	/*-moz-text-shadow: 0 0 1px rgba(0,0,0,0.3);*/
+	-ms-text-shadow: 0 0 1px rgba(0,0,0,0.3);
+	-o-text-shadow: 0 0 1px rgba(0,0,0,0.3);
+	text-shadow: 0 0 1px rgba(0,0,0,0.3);
+} 
+
+a, a:active{
+	display: inline-block;
+	color: #0090FF;
+	text-decoration: none;
+	padding: 2px 4px 0;
+}
+
+a:hover{
+	color: #fff;
+	transition: background-color ease 0.4s;
+	background-color: #33A0ff;
+	cursor: pointer;
+	cursor: hand;
+	border-radius: 10px;
+}
+
+/* Design section */
+
+header{
+	background-color: #191919;
+	text-align: center;
+	font-weight: 100;
+	width: 100%;
+	color: #eee;
+	padding: 30px 0;
+}
+	header #logo{
+		padding: 30px 0;
+		width: 280px;
+	}
+
+	header h2{
+		font-weight: 100;
+		color: #0090FF;
+	}
+
+#main_content{
+	margin: 30px auto;
+	background-color: #eee;
+	max-width: 960px;
+	padding: 40px 20px;
+}

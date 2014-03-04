@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="구글 DevArt 2014에 지원하시는 분들을 돕고자 조직된 비공식 한국어 서포터 페이지입니다. 2월 말에서 3월 초 팀빌딩을 위한 매칭 행사 및 3월 22일 해커톤 진행을 예정에 두고 있습니다. 도움주실 분들 역시 환영합니다." />
+    <meta property="og:title" content="DevArt 2014 비공식 한국어 서포터">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://cwdoh.github.io/devart/images/og-image.png">
+    <meta property="og:url" content="https://cwdoh.github.io/devart/">
+    <meta property="og:site_name" content="DevArt Unofficial Korean Supporters">
+
+    <title>DevArt 2014 Korean Hackathon Page - Unofficial</title>
+
+    <link rel="stylesheet" href="stylesheets/devart.css">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <!-- HEADER -->
+    <header class="inner">
+      <img src="images/logo.png" alt="Google DevArt Logo" id="logo">
+      <!-- <h1 id="project_title">DevArt 2014</h1> -->
+      <h2>HACKATHON KOREA</h2>
+      <p>만약 글이  보이지 않으신다면 <a href="noscript.html">여기</a>를 눌러 확인해보시기 바랍니다.</p>
+    </header>
+
+    <!-- MAIN CONTENT -->
+  <section id="main_content" class="inner">
+  </section>
+
+  <section id="disqus" class="inner">
+        <!-- start of disqus -->
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'devart2014unofficialkoreansupporterpage'; // required: replace example with your forum shortname
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        <!-- end of disqus -->
+  </seciton>
+
+    <!-- FOOTER  -->
+  <footer class="inner">
+    <p class="copyright">DevArt 2014 Korean Supporter Page - Unofficial maintained by <a href="https://github.com/cwdoh">cwdoh</a></p>
+    <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+  </footer>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+    <!-- Ajax Markdown -->
+    <script src="js/marked.js"></script>
+    <script>
+      // get Markdown and render it!
+      var jqxhr = $.ajax( "README.md" )
+        .done(function( data ) {
+          $("#main_content").html( marked( data ) );
+        });
+    </script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker("UA-40929587-4");
+        pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
+
+  </body>
+</html>
