@@ -25,12 +25,12 @@ html, body{
 	top: 0;
 	bottom: 0;
 	right: 0;
-	background-color: #ccc;
+	background-color: #2a2a2a;
 	font: 1em 'Apple SD Gothic Neo', '맑은 고딕','Malgun Gothic', 'Nanum Gothic', '나눔고딕','Driod Sans Fallback', 'Driod Sans', Helvetica, 'Gulim';
 	letter-spacing: 0.05em;
 	word-spacing: 0.2em;
 	line-height: 1.5em;
-	color: #444;
+	color: #eee;
 	text-rendering: auto;
 	word-break: keep-all;
 	word-wrap: break-word;
@@ -77,24 +77,16 @@ header{
 		color: #0090FF;
 	}
 
-#main_content{
-	margin: 30px auto;
-	background-color: #eee;
-	max-width: 960px;
-	padding: 40px 20px;
-}
-
 nav{
 	width: 100%;
 	background-color: #242424;
-	color: #fff;
 }
 
 	#navMenu{
 		display: block;
 		max-width: 960px;
 		margin: 0 auto;
-		padding: 10px 0;
+		padding: 4px 0 10px;
 		text-align: center;
 	}
 
@@ -105,7 +97,8 @@ nav{
 		max-width: 240px;
 		padding: 10px 0 0;
 		margin: 10px 20px;
-		border-bottom: 2px solid #dedede;
+		color: #aaa;
+		border-bottom: 2px solid #aaa;
 		cursor: pointer;
 		cursor: hand;
 	}
@@ -113,4 +106,34 @@ nav{
 	#navMenu li:hover{
 		color: #0090ff;
 		border-color: #0090ff;
+	}
+
+	#navMenu input{
+		display: none;
+	}
+
+	#navMenu input:checked + label li{
+		color: #0090ff;
+		border-color: #0090ff;		
+	}
+
+#main_content{
+	margin: 30px auto;
+	background-color: #242424;
+	max-width: 960px;
+	padding: 30px 40px;
+}
+
+	#main_content h1{
+
+	}
+
+	#main_content h2{
+		margin-top: 80px;
+		padding: 20px 0;
+		border-bottom: 1px solid #444
+	}
+
+	#main_content ol, ul, p{
+		padding: 10px;
 	}
