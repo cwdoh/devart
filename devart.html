@@ -32,28 +32,29 @@
     </header>
     <nav>
         <ul id="navMenu">
-            <input name="hiddenButton" type="radio" id="overview">
+            <input name="hiddenButton" type="radio" id="overview" checked="checked"  data-page="overview">
             <label for="overview">
-                <li data-page="overview">Overview</li>
+                <li>Overview</li>
             </label>
-            <input name="hiddenButton" type="radio" id="meetup">
+            <input name="hiddenButton" type="radio" id="meetup" data-page="meetup">
             <label for="meetup">
-                <li data-page="meetup">Meetup</li>
+                <li>Meetup</li>
             </label>
-            <input name="hiddenButton" type="radio" id="fest">
+            <input name="hiddenButton" type="radio" id="fest" data-page="fest">
             <label for="fest">
-                <li data-page="fest">Fest</li>
+                <li>Fest</li>
             </label>
-            <input name="hiddenButton" type="radio" id="guide">
+            <input name="hiddenButton" type="radio" id="guide" data-page="README">
             <label for="guide">
-                <li data-page="README">Guide</li>
+                <li>Guide</li>
             </label>
         </ul>
     </nav>
     <!-- MAIN CONTENT -->
-  <section id="main_content" class="inner">
-  </section>
+    <section class="mainContents" id="mainContents"></section>
+    </section>
 
+    
   <section id="disqus" class="inner">
       <h1>논의</h1>
 
@@ -88,9 +89,19 @@
     <script src="js/marked.js"></script>
     <script>
       // get Markdown and render it!
-      var jqxhr = $.ajax( "README.md" )
+      var mainContents = $('#mainContents');
+      var buttons = $('#navMenu input').on('click', function(){
+        mainContents.fadeOut(50);
+        var page = this.dataset.page,
+            jqxhr = $.ajax( page + '.md' ).done(
+                function(data){
+                    mainContents.html( marked( data )).fadeIn(500);
+                });
+      });
+      
+      var jqxhr = $.ajax( "overview.md" )
         .done(function( data ) {
-          $("#main_content").html( marked( data ) );
+          $("#mainContents").html( marked( data ) );
         });
     </script>
 

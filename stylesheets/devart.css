@@ -122,48 +122,61 @@ nav{
 		border-color: #0090ff;		
 	}
 
-#main_content, footer, #disqus{
+.mainContents, footer, #disqus{
 	margin: 30px auto;
 	background-color: #242424;
 	max-width: 960px;
 	padding: 30px 40px;
 }
+	.mainContents{
+		/*display: none;*/
+	}
 
-	#main_content h1{
+	.mainContents h1{
 		font-weight: 700;
 		font-size: 2.2em;
 	}
 
-	#main_content h2{
+	.mainContents h2{
 		margin-top: 80px;
 		padding: 20px 0;
 		border-bottom: 1px solid #444
 	}
 
-	#main_content ol, ul, p{
+	.mainContents ol, ul, p{
 		padding: 10px;
 		/*list-style: inside;*/
 	}
 
-	#main_content li{
+	.mainContents li{
 		/*content : '+ ';*/
 		font-weight: 100;
 		padding: 5px 20px;
 		/*border-left: 2px solid #fff;*/
 	}
 
-	#main_content table{
+	.mainContents table{
 		/*display: inline-block;*/
 		margin: 30px auto;
 	}
 
 
-	#main_content th{
+	.mainContents th{
 		padding-top: 5px;
 		background-color: #0090ff;
 	}
 
-	#main_content td{
+	.mainContents td{
 		padding: 10px 14px;
 		background-color: #333;
+	}
+
+	
+	#overview:checked ~ #overviewP,
+	#fest:checked ~ #festP,
+	#meetup:checked ~ #meetupP,
+	#navMenu #guide:checked ~ #guideP
+	{
+		display: block;
+		background-color: red;
 	}
