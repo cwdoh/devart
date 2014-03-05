@@ -91,14 +91,14 @@
       // get Markdown and render it!
       var mainContents = $('#mainContents');
       var buttons = $('#navMenu input').on('click', function(){
-        mainContents.fadeOut(50);
+        mainContents.fadeOut(30);
         var page = this.dataset.page,
             jqxhr = $.ajax( page + '.md' ).done(
                 function(data){
                     mainContents.html( marked( data )).fadeIn(500);
                 });
       });
-      
+
       var jqxhr = $.ajax( "overview.md" )
         .done(function( data ) {
           $("#mainContents").html( marked( data ) );
