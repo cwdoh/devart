@@ -144,5 +144,4 @@
 | 개발도구 | 구글 웹 툴킷(GWT) 혹은 Polymer 중의 아무거나 | [Google Web Toolkit](http://www.gwtproject.org/)<br>[Polymer](http://www.polymer-project.org/) |
 | API들 | Google API 중 아무거나 | 리스트는 [여기](https://developers.google.com/apis-explorer/#p/)을 참조하세요 |
 
-## 논의
 
