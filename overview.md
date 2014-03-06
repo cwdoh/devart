@@ -1,6 +1,6 @@
 # DevArt is calling all corders
 
-<h2 class="text-center">기술이 바로 여러분의 캔버스입니다. 그렇다면 여러분은 무엇을 만드시겠습니까?"</h2>
+<h2 class="text-center">"기술이 바로 여러분의 캔버스입니다. 그렇다면 여러분은 무엇을 만드시겠습니까?"</h2>
 
 <p class="text-right">2014년 3월 29일 오전 3시까지 (한국시간 기준)</p>
 
