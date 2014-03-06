@@ -50,7 +50,7 @@ a, a:active{
 a:hover{
 	color: #fff;
 	transition: background-color ease 0.4s;
-	background-color: #33A0ff;
+	background-color: #0090ff;
 	cursor: pointer;
 	cursor: hand;
 	border-radius: 10px;
@@ -120,6 +120,26 @@ nav{
 	#navMenu input:checked + label li{
 		color: #0090ff;
 		border-color: #0090ff;
+	}
+
+	.button,
+	.button:active{
+		display: block;
+		width: 200px;
+		margin: 0 auto;
+		font-size: 24px;
+		background-color: #0090ff;
+		color: #fff;
+		padding: 16px 20px 14px;
+		border-radius: 30px;
+		cursor: hand;
+		cursor: pointer;
+	}
+
+	.button:hover{
+		background-color: #fff;
+		color: #0090ff;
+		border-radius: 30px;
 	}
 
 .mainContents, footer, #disqus{
