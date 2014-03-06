@@ -230,6 +230,7 @@ nav{
 
 @media (max-width: 320px){
 	#navMenu li{
+		display: inline;
 		width: 110px;
 		margin: 10px 0;
 	}
