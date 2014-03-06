@@ -5,25 +5,27 @@
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="구글 DevArt 2014에 지원하시는 분들을 돕고자 조직된 비공식 한국어 서포터 페이지입니다. 2월 말에서 3월 초 팀빌딩을 위한 매칭 행사 및 3월 22일 해커톤 진행을 예정에 두고 있습니다. 도움주실 분들 역시 환영합니다." />
-    <meta property="og:title" content="DevArt 2014 비공식 한국어 서포터">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="https://cwdoh.github.io/devart/images/og-image.png">
-    <meta property="og:url" content="https://cwdoh.github.io/devart/">
-    <meta property="og:site_name" content="DevArt Unofficial Korean Supporters">
-    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, minimum-scale=1">  
-    <title>DevArt 2014 Korean Supporter Page - Unofficial</title>
 
-    <!-- <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.4.2/pure-min.css"> -->
-    <style>
-      @import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
-    </style>
+    <meta name="author" content="changwook.doh@gmail.com, imazine@unioh.com" />
+    <meta name="description" content="DevArt 한국 참가자 지원 및 해커톤 진행을 위한 비공식 페이지입니다. 보다 자세하고 정확한 정보는 공식 사이트 http://www.g.co/devart 를 참고하시기 바랍니다." />
 
-    <link rel="stylesheet" href="stylesheets/stylesheet.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta property="og:title" content="DevArt. 비공식 한국어 서포터" />
+    <meta property="og:url" content="https://cwdoh.github.io/devart" />
+    <meta property="og:description" content="DevArt 한국 참가자 지원 및 해커톤 진행을 위한 비공식 페이지입니다. 보다 자세하고 정확한 정보는 공식 사이트 http://www.g.co/devart 를 참고하시기 바랍니다." />
+    <meta property="og:image"    content="https://devart.withgoogle.com/assets/img/icon/site.png" />
+    <meta itemprop="image"       content="https://devart.withgoogle.com/assets/img/icon/site.png">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <link rel="image_src"        href="https://devart.withgoogle.com/assets/img/icon/site.png" />
+    <link rel="shortcut icon"    href="https://devart.withgoogle.com/assets/img/icon/favicon.png">
+    <link rel="apple-touch-icon" href="https://devart.withgoogle.com/assets/img/icon/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://devart.withgoogle.com/assets/img/icon/apple-touch-icon_72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://devart.withgoogle.com/assets/img/icon/apple-touch-icon_114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://devart.withgoogle.com/assets/img/icon/apple-touch-icon_144.png" />
+
+    <title>DevArt 2014 Korean Hackathon Page - Unofficial</title>
+
+    <link rel="stylesheet" href="stylesheets/devart.css">
+
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -32,22 +34,40 @@
 
   <body>
     <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <img src="images/logo.png" alt="Google DevArt Logo" id="logo">
-          <a id="forkme_banner" href="https://github.com/cwdoh/devart/tree/gh-pages">View on GitHub</a>
-
-          <!-- <h1 id="project_title">DevArt 2014</h1> -->
-          <h2 style="color: white;">Korean Supporter's Unofficial Page</h2>
-	  <p style="color: white;">만약 글이  보이지 않으신다면 <a href="noscript.html">여기</a>를 눌러 확인해보시기 바랍니다.</p>
-	</header>
-    </div>
-
+    <header class="inner">
+      <img src="images/logo.png" alt="Google DevArt Logo" id="logo">
+      <!-- <h1 id="project_title">DevArt 2014</h1> -->
+      <h2>HACKATHON KOREA</h2>
+      <!-- <p>만약 글이  보이지 않으신다면 <a href="noscript.html">여기</a>를 눌러 확인해보시기 바랍니다.</p> -->
+    </header>
+    <nav>
+        <ul id="navMenu">
+            <input name="hiddenButton" type="radio" id="overview" checked="checked"  data-page="overview">
+            <label for="overview">
+                <li>Overview</li>
+            </label>
+            <input name="hiddenButton" type="radio" id="meetup" data-page="meetup">
+            <label for="meetup">
+                <li>Meetup</li>
+            </label>
+            <input name="hiddenButton" type="radio" id="fest" data-page="fest">
+            <label for="fest">
+                <li>Fest</li>
+            </label>
+            <input name="hiddenButton" type="radio" id="guide" data-page="README">
+            <label for="guide">
+                <li>Guide</li>
+            </label>
+        </ul>
+    </nav>
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-      </section>
-      <section id="disqus" class="inner">
+    <section class="mainContents" id="mainContents"></section>
+    </section>
+
+
+  <section id="disqus" class="inner">
+      <h1>논의</h1>
+
         <!-- start of disqus -->
         <div id="disqus_thread"></div>
         <script type="text/javascript">
@@ -64,16 +84,13 @@
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
         <!-- end of disqus -->
-      </seciton>
-    </div>
+  </seciton>
 
     <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">DevArt 2014 Korean Supporter Page - Unofficial maintained by <a href="https://github.com/cwdoh">cwdoh</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+  <footer class="inner">
+    <p class="copyright">DevArt 2014 Korean Supporter Page - Unofficial maintained by <a href="https://github.com/cwdoh">cwdoh</a></p>
+    <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+  </footer>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
@@ -82,9 +99,19 @@
     <script src="js/marked.js"></script>
     <script>
       // get Markdown and render it!
-      var jqxhr = $.ajax( "README.md" )
+      var mainContents = $('#mainContents');
+      var buttons = $('#navMenu input').on('click', function(){
+        mainContents.fadeOut(30);
+        var page = this.dataset.page,
+            jqxhr = $.ajax( page + '.md' ).done(
+                function(data){
+                    mainContents.html( marked( data )).fadeIn(500);
+                });
+      });
+
+      var jqxhr = $.ajax( "overview.md" )
         .done(function( data ) {
-          $("#main_content").html( marked( data ) );
+          $("#mainContents").html( marked( data ) );
         });
     </script>
 
