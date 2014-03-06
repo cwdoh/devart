@@ -220,3 +220,16 @@ nav{
 		margin: 10px 0;
 	}
 }
+
+.nav-social-container {
+	margin:0;
+	height:30px;
+}
+
+.social-media-list li {
+	display:block;
+	float: left;
+	width: 25%;
+	text-align:center;
+	margin: 0 auto;
+}

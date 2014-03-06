@@ -12,8 +12,8 @@
     <meta property="og:title" content="DevArt. 비공식 한국어 서포터" />
     <meta property="og:url" content="https://cwdoh.github.io/devart" />
     <meta property="og:description" content="DevArt 한국 참가자 지원 및 해커톤 진행을 위한 비공식 페이지입니다. 보다 자세하고 정확한 정보는 공식 사이트 http://www.g.co/devart 를 참고하시기 바랍니다." />
-    <meta property="og:image"    content="https://cwdoh.github.io/devart/images/logo.png" />
-    <meta itemprop="image"       content="https://cwdoh.github.io/devart/images/logo.png">
+    <meta property="og:image"    content="https://devart.withgoogle.com/assets/img/icon/site.png" />
+    <meta itemprop="image"       content="https://devart.withgoogle.com/assets/img/icon/site.png">
 
     <link rel="image_src"        href="https://devart.withgoogle.com/assets/img/icon/site.png" />
     <link rel="shortcut icon"    href="https://devart.withgoogle.com/assets/img/icon/favicon.png">
@@ -65,8 +65,7 @@
     <section class="mainContents" id="mainContents"></section>
     </section>
 
-
-  <section id="disqus" class="inner">
+    <section id="disqus" class="inner">
       <h1>궁금하시거나 나누고 싶은 것이 있으면 자유롭게 적어주세요.</h1>
 
         <!-- start of disqus -->
@@ -85,13 +84,31 @@
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
         <!-- end of disqus -->
-  </seciton>
+    </seciton>
 
     <!-- FOOTER  -->
-  <footer class="inner">
-    <p class="copyright">DevArt 2014 Korean Supporter Page - Unofficial maintained by <a href="https://github.com/cwdoh">cwdoh</a></p>
-    <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-  </footer>
+    <footer class="inner">
+      <!-- social plugins -->
+      <div class="nav-social-container text-center">
+        <ul class="social-media-list">
+          <li>
+            <div class="g-plusone" data-size="medium" data-annotation="inline"></div>
+          </li>
+          <li>
+            <div class="g-plus" data-action="share"></div>
+          </li>
+          <li>
+            <div class="fb-like" data-href="http://cwdoh.github.io/devart/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+          </li>
+          <li>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="ko" data-text="개발자와 예술가가 함께 하는 DevArt Unoffcial Hackathon Korea가 http://goo.gl/A5Nz8Z 에서 진행 중입니다. :)">Tweet</a>
+          </li>
+        </ul>
+      </div>
+
+      <p class="copyright">DevArt 2014 Korean Supporter Page - Unofficial maintained by <a href="https://github.com/cwdoh">cwdoh</a></p>
+      <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+    </footer>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
@@ -116,6 +133,29 @@
         });
     </script>
 
+    <!-- Facebook like & share -->
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Twitter. -->
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+    <!-- Google Plus. -->
+    <script type="text/javascript">
+      window.___gcfg = {lang: 'ko'};
+
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/platform.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+
     <!-- Google Analytics -->
     <script type="text/javascript">
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -130,3 +170,5 @@
 
   </body>
 </html>
+
+
