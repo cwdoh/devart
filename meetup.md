@@ -6,6 +6,10 @@
 
 3월 8일 토요일, 홍대에서 넘치는 상상력을 보여주실 DevArt Hackathon 참가 희망자를 모집합니다. 킥오프 밋업은 DevArt Hackathon에 대한 소개와 함께 참가할 파트너를 구하지 못해 "쓸쓸한" 분들을 위해 열리는 행사입니다. 관심이 있으시다면 참가하시고 창작욕을 함께 불태울 파트너를 찾아보세요! 참가 신청은 페이지 위쪽에 있습니다. :)
 
+<div class="text-center">
+  <img style="max-width: 100%; max-height: 100%" src="./images/hackathon-fest.jpg" alt="해커톤 포스터"/>
+</div>
+
 ## 킥오프 밋업 진행 스케쥴
 
 | 세션 시간 | 세션 |
