@@ -217,10 +217,11 @@ nav{
 
 @media (max-width: 320px){
 	#navMenu li{
+		min-width: 100px;
+		min-width: 100px;
 		margin: 10px 0;
 	}
 }
-
 .nav-social-container {
 	margin:0;
 	height:30px;
