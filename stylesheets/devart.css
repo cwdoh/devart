@@ -155,12 +155,14 @@ nav{
 	.mainContents h1{
 		font-weight: 700;
 		font-size: 2.2em;
+		line-height: 1.2em;
 	}
 
 	.mainContents h2{
 		margin-top: 80px;
 		padding: 20px 0;
-		border-bottom: 1px solid #444
+		border-bottom: 1px solid #444;
+		line-height: 1.4em;
 	}
 
 	.mainContents ol, ul, p{
@@ -211,4 +213,10 @@ nav{
 
 .text-center {
   text-align: center;
+}
+
+@media (max-width: 320px){
+	#navMenu li{
+		margin: 10px 0;
+	}
 }
