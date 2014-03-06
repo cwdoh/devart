@@ -27,3 +27,9 @@ DevArt Hackathon은 3월 8일부터 3월 22일까지 2주 동안 진행되는 �
 참여 규칙이나 방법에 어려움을 느끼시나요? 물어보세요. 알고 계시다면 답해주세요. 새로 안 사실은 서로 정보를 공유해주세요. 조그마한 용기와 관심이 우리 모두를 도와줄 것입니다.
 
 혹은 다른 사람들을 돕고 싶으신가요? 도움에 다른 기술은 필요하지 않습니다. 돕고 싶다면 망설이지 말고 언제든지 연락주세요. 어떤 형태의 기여라도 정말 기쁜 마음으로 환영하겠습니다. [DevArt 해커톤 페이스북 그룹](https://www.facebook.com/groups/googleDevArtKoreaHackathon/)에 방문하세요!
+
+---
+
+<p class="text-center">
+  <em>DevArt Korea Hackathon은 <img src="images/google.png" style="height: 1em;" class="nothing">의 후원을 받고 자원봉사자들에 의해 진행되는 자발적인 행사이며 <a href="https://developers.google.com/"><img class="stable nothing" src="https://devart.withgoogle.com/assets/img/google.png" style="height: 1em;"></a>과 <a href="http://www.barbican.org.uk/artgallery/event-detail.asp?ID=15608"><img class="stable nothing" src="https://devart.withgoogle.com/assets/img/barbican.png" style="height: 1em;"></a>이 진행하는 DevArt 및 DevArt 대회 참여 여부와는 관련이 없음을 알려드립니다.</em>
+</p>

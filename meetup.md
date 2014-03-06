@@ -26,3 +26,14 @@
 <div class="text-center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d395.39574479494655!2d126.9218593!3d37.55115359999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98dacacac473%3A0x71e86b1715c1dd36!2z7IK066Gx65Oc7Yyp7Yag66as!5e0!3m2!1sko!2skr!4v1394080769546" width="320" height="240" frameborder="0" style="border:0"></iframe>
 </div>
+
+## 기타
+
+* 안타깝게도 DevArt 참여 규칙 및 진행 여건에 의해 미성년자는 킥오프 밋업에 참여하실 수 없습니다. :(
+* 참가자에게는 파티 중 마실 수 있는 1병의 맥주가 제공됩니다. (추가적인 음료는 개인이 직접 구매하여 드실 수 있습니다.)
+
+---
+
+<p class="text-center">
+  <em>이 행사는 <img src="images/google.png" style="height: 1em;" class="nothing">의 후원을 받고 자원봉사자들의 도움을 통해 진행되는 행사입니다.</em>
+</p>

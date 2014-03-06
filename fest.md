@@ -4,4 +4,6 @@
 
 ## 자세한 사항은 곧 공개될 예정이니 기다려주세요! :)
 
-
+<p class="text-center">
+  <em>이 행사는 <img src="images/google.png" style="height: 1em;" class="nothing">의 후원을 받고 자원봉사자들의 도움을 통해 진행되는 행사입니다.</em>
+</p>
