@@ -214,12 +214,7 @@ nav{
   text-align: center;
 }
 
-@media (max-width: 320px){
-	#navMenu li{
-		width: 110px;
-		margin: 10px 0;
-	}
-}.nav-social-container {
+.nav-social-container {
 	margin:0;
 	height:30px;
 }
@@ -230,4 +225,12 @@ nav{
 	width: 25%;
 	text-align:center;
 	margin: 0 auto;
+}
+
+
+@media (max-width: 320px){
+	#navMenu li{
+		width: 110px;
+		margin: 10px 0;
+	}
 }
