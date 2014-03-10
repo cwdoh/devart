@@ -2,13 +2,16 @@
 
 본래 해커톤(Hackathon)은 해킹(Hacking)+마라톤(Marathon)의 합성어로 개발자나 기획자, 디자이너 등 다양한 사람들이 한 팀을 이루어 창조적인 아이디어를 구현하는 아이디어 개발 대회입니다. 해커톤은 전세계에서 다양한 주제로 다양한 사람들이 참여하는 새로운 방식의 축제입니다. DevArt 해커톤은 DevArt의 취지에 맞게 개발자와 기획자, 디자이너, 예술가 등의 다양한 사람들이 모여 디지털 아트를 주제로 진행되는 해커톤 행사입니다.
 
-## 3월 8일 해커톤 킥오프 밋업
+## 3월 8일, DevArt Hackerthon 시작 알림과 쓸친소 Party 후기
 
-DevArt Korea Hackathon의 Kickoff Meetup이 지난 3월 8일 토요일 홍대 Salon de factory에서 진행되었습니다. 개발자나 디자이너분들만이 아니라 미디어 아티스트, 공연 기획 등 다양한 분야에 종사하시는 분들이 모여 해커톤의 시작을 알리는 행사에 함께 참여해주셨습니다.
+DevArt Korea Hackathon의 Kickoff Meetup이 지난 3월 8일 토요일 홍대 Salon de factory에서 Google DevArt Hackerthon의 시작을 알리는 '쓸친소 Party'가 열렸습니다.
+
+DevArt 및 해커톤 참여 방법으로 시작하여 참가자들간의 네트워킹을 위한 쓸친소 파티까지 진행을 하였는데 앞으로 2주 동안 DevArt Hackerthon을 어떻게 준비 사항들을 알아보시기 위해 개발자, 미디어 아티스트, 개(발자)디자이너, 공연기획 디렉터 등 정말 다양한 분들께서 참여해 주셨습니다. 무려 4시간동안 쉴 새 없이 자신의 관심 분야를 소개하고 아이디어를 나누었는데요, 열기가 대단했습니다!! 다들 적극적으로 대화와 토론에 참여하시는 모습을 보며 뿌듯함과 함께 기술과 예술의 거리가 생각보다 훨씬 더 가까운 곳에 있다는 느낌을 받을 수 있었습니다 .DevArt 참가계획이 없으셨던 분도 주변의 응원에 힘입어 참가하기로 마음을 바꾸셨다는 훈훈한 이야기도 있어요. :)
 
 <img alt="Meetup snapshot - Explaining DevArt Process" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc1/t1/1922183_737170139636150_2019397405_n.jpg" style="max-width: 100%; max-height: 100%;">
 
-간단하게 DevArt 및 해커톤에 대해 설명한 뒤 자기소개를 하고 랜파티를 진행했습니다. 다들 적극적으로 대화와 토론에 참여하시는 모습을 보며 뿌듯함과 함께 기술과 예술의 거리가 생각보다 훨씬 더 가까운 곳에 있다는 느낌을 받을 수 있었습니다. 이번 킥오프에서 실제 참여를 결심한 분들도 계시고 다른 여러가지 시도를 결심하신 분들도 계셨는데 킥오프 밋업에 참가하지 못하신 분들도 해커톤에 자유롭게 참여하실 수 있으니 걱정하지마시고 일단 참가해보세요. :)
+3월 22일 열리는 <Google DevArt Hackerthon Fest>에서는 더욱 많은 분들을 뵙고 싶습니다. :-D
+킥오프 밋업에 참가하지 못하신 분들도 22일 해커톤 Fest에 자유롭게 참여하실 수 있으니 앞으로도 [DevArt Hackerthon 페이스북](https://www.facebook.com/groups/googleDevArtKoreaHackathon/)과 [비공식 사이트](https://cwdoh.github.io/devart/)를 자주 방문해 주시기 바랍니다.
 
 ---
 
