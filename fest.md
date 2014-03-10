@@ -4,6 +4,9 @@
 
 ## 자세한 사항은 곧 공개될 예정이니 기다려주세요! :)
 
+<img alt="Meetup snapshot - Explaining DevArt Process" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc1/t1/1922183_737170139636150_2019397405_n.jpg" style="max-width: 100%; max-height: 100%;">
+<div class="text-center">[사진] 지난 3월 8일 해커톤 킥오프 밋업</div>
+
 <p class="text-center">
   <em>이 행사는 <img src="images/google.png" style="height: 1em;" class="nothing">의 후원을 받고 자원봉사자들의 도움을 통해 진행되는 행사입니다.</em>
 </p>
