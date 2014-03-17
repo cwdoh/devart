@@ -1,10 +1,8 @@
-# 3월 22일 - 여러분을 위한, 여러분의  DevArt 해커톤 Fest!
+# 3월 22일 - 여러분을 위한, 여러분의 해커톤 Fest!
 
 해커톤의 마지막 날인 3월 22일, DevArt 해커톤 참여자들이 모여 자신의 작품을 자랑하고 다른 이들과의 피드백을 통해 함께 성장하는 행사가 준비되어 있습니다.
 
 ---
-
-본래 해커톤(Hackathon)은 해킹(Hacking)+마라톤(Marathon)의 합성어로 개발자나 기획자, 디자이너 등 다양한 사람들이 한 팀을 이루어 창조적인 아이디어를 구현하는 아이디어 개발 대회입니다. 해커톤은 전세계에서 다양한 주제로 다양한 사람들이 참여하는 새로운 방식의 축제입니다. DevArt 해커톤은 DevArt의 취지에 맞게 개발자와 기획자, 디자이너, 예술가 등의 다양한 사람들이 모여 디지털 아트를 주제로 진행되는 해커톤 행사입니다.
 
 <img alt="Meetup snapshot - Explaining DevArt Process" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc1/t1/1922183_737170139636150_2019397405_n.jpg" style="max-width: 100%; max-height: 100%;">
 <div class="text-center">[사진] 지난 3월 8일 해커톤 킥오프 밋업</div>
@@ -19,7 +17,7 @@
 * Q. 해커톤 당일에 모든 작업을 진행해야 하나요?
  * A. 아닙니다. 미리 작업을 준비해오셔도 됩니다. 해커톤에 참여하시는 동안 일부 기능을 추가하시거나 하셔도 됩니다.
 * Q. 완성품을 제출해야 하나요?
- * A. 아닙니다. DevArt와 마찬가지로 해커톤에서 반드시 완성품을 제출하는 것은 아닙니다.
+ * A. 아닙니다. <u>DevArt와 마찬가지로 해커톤에서 반드시 완성품을 제출하지 않으셔도 됩니다.</u>
 
 <h3 class="text-center" style="padding-left: 3em; padding-right: 3em;">DevArt 해커톤은 누구나 자유로운 방식으로 참여하실 수 있습니다. 어려워하지 마세요! :)</h3>
 
@@ -72,6 +70,6 @@
 ---
 
 <p class="text-center">
-  <em>이 행사는 <img src="images/google.png" style="height: 1em;" class="nothing">의 후원을 받고 자원봉사자들의 도움을 통해 진행되는 행사입니다.</em>
+  <em>이 행사는 <img src="images/google.png" style="height: 1em;" class="nothing">의 후원과 자원봉사자들의 도움을 통해 진행됩니다.</em>
 </p>
 
