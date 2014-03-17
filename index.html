@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="changwook.doh@gmail.com, imazine@unioh.com" />
-    <meta name="description" content="DevArt 한국 참가자 지원 및 해커톤 진행을 위한 비공식 페이지입니다. 보다 자세하고 정확한 정보는 공식 사이트 http://www.g.co/devart 를 참고하시기 바랍니다." />
+    <meta name="description" content="DevArt 한국 참가자 지원 및 해커톤 진행을 위한 비공식 페이지입니다. 보다 자세하고 정확한 정보는 공식 사이트 http://www.g.co/devart 를 참고하시기 바랍니다. 3월 22일 강남 메가존토즈타워점에서 해커톤이 열립니다! 많이 참여해주세요!" />
 
     <meta property="og:title" content="DevArt. 비공식 한국어 서포터 및 해커톤" />
     <meta property="og:url" content="https://cwdoh.github.io/devart" />
-    <meta property="og:description" content="DevArt 한국 참가자 지원 및 해커톤 진행을 위한 비공식 페이지입니다. 보다 자세하고 정확한 정보는 공식 사이트 http://www.g.co/devart 를 참고하시기 바랍니다." />
+    <meta property="og:description" content="DevArt 한국 참가자 지원 및 해커톤 진행을 위한 비공식 페이지입니다. 보다 자세하고 정확한 정보는 공식 사이트 http://www.g.co/devart 를 참고하시기 바랍니다. 3월 22일 강남 메가존토즈타워점에서 해커톤이 열립니다! 많이 참여해주세요!" />
     <meta property="og:image"    content="https://devart.withgoogle.com/assets/img/icon/site.png" />
     <meta itemprop="image"       content="https://devart.withgoogle.com/assets/img/icon/site.png">
 
@@ -43,7 +43,7 @@
     </header>
     <nav>
         <ul id="navMenu">
-            <input name="hiddenButton" type="radio" id="overview" checked="checked"  data-page="overview">
+            <input name="hiddenButton" type="radio" id="overview"  data-page="overview">
             <label for="overview">
                 <li>Overview</li>
             </label>
@@ -51,7 +51,7 @@
             <label for="meetup">
                 <li>Meetup</li>
             </label>
-            <input name="hiddenButton" type="radio" id="fest" data-page="fest">
+            <input name="hiddenButton" type="radio" id="fest" checked="checked" data-page="fest">
             <label for="fest">
                 <li>Fest</li>
             </label>
@@ -127,7 +127,7 @@
                 });
       });
 
-      var jqxhr = $.ajax( "overview.md" )
+      var jqxhr = $.ajax( "fest.md" )
         .done(function( data ) {
           $("#mainContents").html( marked( data ) );
         });
